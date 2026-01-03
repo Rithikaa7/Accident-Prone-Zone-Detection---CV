@@ -79,13 +79,6 @@ This project is developed strictly for **academic and research purposes**.
 
 ---
 
-## Limitations
-- Risk scoring is rule-based and may require domain calibration
-- Detection performance depends on video quality and lighting
-- The system does not predict accidents or outcomes
-
----
-
 ## Future Scope
 - Incorporate time-series modeling for temporal risk trends
 - Integrate weather or environmental data
